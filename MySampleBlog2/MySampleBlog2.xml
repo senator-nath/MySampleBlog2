@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MySampleBlog2</name>
+    </assembly>
+    <members>
+        <member name="M:MySampleBlog2.Controllers.BlogPostController.GetBlogPost(System.Int32)">
+            <summary>
+            get individual national park
+            </summary>
+            <param name="blogPostId">the id of the national park</param>
+            <returns></returns>
+        </member>
+        <member name="M:MySampleBlog2.Controllers.CategoryController.GetCategory(System.Int32)">
+            <summary>
+            get individual national park
+            </summary>
+            <param name="categoryId">the id of the national park</param>
+            <returns></returns>
+        </member>
+        <member name="M:MySampleBlog2.Controllers.CommentController.GetComment(System.Int32)">
+            <summary>
+            get individual national park
+            </summary>
+            <param name="commentId">the id of the national park</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
